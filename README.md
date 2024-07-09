@@ -32,6 +32,6 @@ This project is an educational platform that manages users including students an
 If you have any questions, suggestions, or feedback, feel free to reach out to me:
 
 - **Email:** [rafeknaim@gmail.com](mailto:rafeknaim@gmail.com)
-- **LinkedIn:** [rafek naim](https://www.linkedin.com/in/rafek-naim-6a099523a/)
+- **LinkedIn:** [Rafek Naim](https://www.linkedin.com/in/rafek-naim-6a099523a/)
 
 Thank you for your interest in this project!
